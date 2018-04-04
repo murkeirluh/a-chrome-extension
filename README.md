@@ -1,10 +1,10 @@
-### a chrome extension 
+## a chrome extension 
 _version 1.0: an attempt_
+---------
 
+### (target) features
 
-#### (target) features
-
-_an attempt:_
+_v.1.0: an attempt_
 - text autosaving
 - confirmation message before exiting tab/window
 
